@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1675070174 source:c:\hasil coding\projek uas\main.cpp
+	<iostream>
+	<conio.h>
+	<dos.h>
+	<windows.h>
+	<time.h>
+
